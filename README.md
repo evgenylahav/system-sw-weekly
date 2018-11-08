@@ -8,3 +8,6 @@ Week 1:
 Week 2:
 - Password generator module
 - Unit test: random and mock.patch
+
+Week 3:
+- creating tests with hypothesis package
