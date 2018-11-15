@@ -11,3 +11,6 @@ Week 2:
 
 Week 3:
 - creating tests with hypothesis package
+
+Week 4:
+- image 2D fft
