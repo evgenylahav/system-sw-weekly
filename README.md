@@ -17,3 +17,6 @@ Week 4:
 
 Week 5:
 - Bob task
+
+Week 6:
+- Secret handshake task
