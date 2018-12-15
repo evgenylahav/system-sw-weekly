@@ -20,3 +20,6 @@ Week 5:
 
 Week 6:
 - Secret handshake task
+
+Week 7:
+- Kindergarten garden
